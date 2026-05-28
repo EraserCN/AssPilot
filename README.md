@@ -1,4 +1,4 @@
 # AssPilot
 
-![Project Image](https://imgur.com/a/rN4guZW)
+![Project Image](https://i.meee.com.tw/sUdhAJC.png)
 
