@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AssPilot</string>
+
+    <!-- Main UI -->
+    <string name="new_chat">新对话</string>
+    <string name="history">历史记录</string>
+    <string name="chat">对话</string>
+    <string name="welcome_subtitle">点击右下角 + 按钮开始新对话</string>
+
+    <!-- Chat -->
+    <string name="input_hint">输入消息…</string>
+    <string name="send">发送</string>
+    <string name="select_model">选择模型</string>
+    <string name="typing">正在思考…</string>
+
+    <!-- Settings -->
+    <string name="settings_title">设置</string>
+    <string name="base_url_label">API 地址（可选）</string>
+    <string name="base_url_hint">https://mindpilot-server-sg.allawnos.com</string>
+    <string name="save">保存</string>
+    <string name="settings_saved">设置已保存</string>
+
+    <!-- History -->
+    <string name="no_history">暂无对话记录</string>
+    <string name="no_history_hint">返回并开始对话，记录会在这里显示</string>
+    <string name="delete_session_title">删除对话</string>
+    <string name="delete_session_message">确定要删除这个对话吗？此操作不可撤销。</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+
+    <!-- About -->
+    <string name="about_title">关于 AssPilot</string>
+    <string name="about_version">版本 %s</string>
+    <string name="about_desc_title">应用介绍</string>
+    <string name="about_description">AssPilot 是一款基于 OPPO/一加国际版 AI 服务的多模型对话应用。支持 Mind Pilot、Gemini、Perplexity、ChatGPT、Claude 等主流 AI 模型，每次对话均使用独立随机 UUID 作为身份标识，以期符合 GDPR 隐私保护要求。</string>
+    <string name="about_features_title">功能特性</string>
+    <string name="about_features">🤖  多模型切换（Perplexity / Gemini / Claude…）\n🔑  每 Session 独立随机 UUID Cookie\n💾  对话本地存储，随时查看历史\n▶️  SSE 流式输出，实时逐字显示\n📝  AI 回复支持 Markdown 渲染</string>
+    <string name="about_privacy_title">隐私声明</string>
+    <string name="about_privacy">本应用的请求会发送至 OPPO/一加的国际版 AI 服务器。我们在每次请求中使用随机生成的 UUID 作为 Cookie，以期使您的对话受 GDPR 保护。但实际是否落实，我们无法保证。请勿在对话中输入个人敏感信息。</string>
+
+    <!-- First-launch disclaimer -->
+    <string name="disclaimer_title">⚠️ 使用前须知</string>
+    <string name="disclaimer_message">本应用使用 OPPO / 一加国际版 AI 服务作为基础。\n\n我们在每次请求中使用随机生成的 UUID 作为独立 Cookie，以期使您的对话受到 GDPR 隐私保护。但实际是否落实，我们无法保证，请知悉。\n\n请勿在对话中输入个人敏感信息。继续使用即表示您已了解上述情况。</string>
+    <string name="disclaimer_confirm">我已了解，继续使用</string>
+</resources>
